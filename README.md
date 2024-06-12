@@ -1,12 +1,12 @@
 <h1 align="center">Hello There👋, Explorer!</h1>
-<h3 align="center">You're more than welcome to look at the projects and works I've worked on by accessing my Github account. As a front-end developer from Bangladesh, I am really passionate about what I do.</h3>
+<h3 align="center">You are more than welcome to visit my Github account to view the projects and works I have completed. I want to develop a strong path in SQA because I'm highly interested in it. I am really passionate about what I do.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zyinj840ltqqn2t97gzbj9nf0bu0n8bj6119d6n4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtajwaralirumman&label=Profile%20views&color=0e75b6&style=flat" alt="mdtajwaralirumman" /> </p>
 
-- 🔭 I’m currently working on **Full stack web development**
+- 🔭 I’m currently working on **Software Quality Assurance (SQA)**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **SQA & Javascript**
 
 - 📫 How to reach me **tajwaralirumman@gmail.com , mdtajwarali@gmail.com**
 
