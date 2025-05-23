@@ -4,12 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtajwaralirumman&label=Profile%20views&color=0e75b6&style=flat" alt="mdtajwaralirumman" /> </p>
 
-- 👨‍💻 I’m currently working as a Software Quality Assurance (SQA) Engineer
-📚 I’m continuously learning and improving in the field of Software Quality Assurance
-🤖 Exploring the world of Automation Testing
-🎯 Focused on growing my skills in QA processes, automation frameworks, and test design
-💻 Currently learning Java and Python for automation scripting
-🎮 Fun fact: I love learning new things and enjoy gaming in my free time!
+- 👨‍💻 I’m currently working as a **Software Quality Assurance (SQA)** Engineer
+- 📚 I’m continuously learning and improving in the field of Software Quality Assurance
+- 🤖 Exploring the world of **Automation Testing**
+- 🎯 Focused on growing my skills in QA processes, automation frameworks, and test design
+- 💻 Currently learning Java and Python for automation scripting
+- 🎮 Fun fact: I love learning new things and enjoy gaming in my free time!
 - 📫 How to reach me **tajwaralirumman@gmail.com , mdtajwarali@gmail.com**
 
 
