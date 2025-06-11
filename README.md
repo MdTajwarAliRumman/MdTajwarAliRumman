@@ -1,4 +1,4 @@
-
+<img align="Center" alt="Coding" width="100%" src="https://github.com/user-attachments/assets/a25813cf-d294-4fd2-b12e-f15789cf10fd">
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=480&lines=Hello+there+Explorer!+👋;<+----This+is+Tajwar----+>;🛠️+Debugging+Life......;🚫+Error+404+:+Peace....;___❌+Not+found+(yet)+⚠️___" alt="Typing SVG" />
 </h1>
