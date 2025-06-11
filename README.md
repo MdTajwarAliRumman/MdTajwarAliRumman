@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=480&lines=Hello+there+Explorer!+👋;<+----This+is+Tajwar----+>;🛠️+Debugging+Life......;🚫+Error+404+:+Peace....;___❌+Not+found+(yet)+⚠️___" alt="Typing SVG" />
 </h1>
-
+<img align="right" alt="Pikachu" width="70" src="https://github.com/user-attachments/assets/13e7f021-6ef8-4cde-ac4b-c57e5de409a3">
 <h4 align="center">You are more than welcome to visit my Github account to view the projects and works I have completed. I want to develop a strong path in SQA because I'm highly interested in it. I am really passionate about what I do.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/1450c295-5157-4ff3-be29-b869c75ac594">
@@ -50,3 +50,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&duration=3000&pause=500&color=00A36C&background=000000&center=true&vCenter=true&width=500&lines=Hello+World!;I+code+in+pixels+%F0%9F%8E%AE;QA+Ninja+%F0%9F%A4%AB;Always+Leveling+Up+%F0%9F%92%AA" alt="Pixel Typing Banner" />
 </p>
+<img align="center" alt="packman" width="85%" height="10%" src="https://github.com/user-attachments/assets/4ab8df96-8f99-45a9-b7ed-076abe4d4391">
