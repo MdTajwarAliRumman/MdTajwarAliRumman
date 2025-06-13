@@ -2,8 +2,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=480&lines=Hello+there+Explorer!+👋;<+----This+is+Tajwar----+>;🛠️+Debugging+Life......;🚫+Error+404+:+Peace....;___❌+Not+found+(yet)+⚠️___" alt="Typing SVG" />
 </h1>
+
 <img align="right" alt="Pikachu" width="70" src="https://github.com/user-attachments/assets/13e7f021-6ef8-4cde-ac4b-c57e5de409a3">
-<h4 align="center">You are more than welcome to visit my Github account to view the projects and works I have completed. I want to develop a strong path in SQA because I'm highly interested in it. I am really passionate about what I do.</h4>
+<h4 align="center">You are more than welcome to visit my Github account to view the projects and works I have completed. I want to develop a strong path in SQA because I'm highly interested in it. I am really passionate about what I do.</h4><br>
+
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/1450c295-5157-4ff3-be29-b869c75ac594">
 
@@ -15,16 +17,26 @@
 - 🎯 Focused on growing my skills in QA processes, automation frameworks, and test design
 - 💻 Currently learning Java and Python for automation scripting
 - 🎮 Fun fact: I love learning new things and enjoy gaming in my free time!
-- 📫 How to reach me **tajwaralirumman@gmail.com , mdtajwarali@gmail.com**
+
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdtajwar-ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdtajwar-ali/" height="30" width="40" /></a>
-<a href="https://fb.com/tajwar ali rumman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tajwar ali rumman" height="30" width="40" /></a>
-<a href="https://instagram.com/_____tajwar_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____tajwar_____" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mdtajwar-ali/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdtajwar-ali" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/tajwar ali rumman" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tajwar ali rumman" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_____tajwar_____" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____tajwar_____" height="30" width="40" />
+  </a>
+  <a href="mailto:mdtajwarali@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="mdtajwarali@gmail.com" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
