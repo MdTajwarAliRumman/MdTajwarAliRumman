@@ -18,6 +18,8 @@
 - 💻 Currently learning Java and Python for automation scripting
 - 🎮 Fun fact: I love learning new things and enjoy gaming in my free time!
 
+[![Resume](https://img.shields.io/badge/View%20CV-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white&color=red)](https:#)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-Website-blue?style=flat&logo=googlechrome&logoColor=white)](https:#)
 
 
 
