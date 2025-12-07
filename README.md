@@ -45,7 +45,13 @@
   <img src="https://skillicons.dev/icons?i=java,selenium,js,python,html,css,postman,wordpress,git,github,vscode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="JMeter" width="40" height="40"/>
+   <!-- Playwright -->
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="70" height="60" style="margin:6px"/>
+
+  <!-- Notion -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" style="margin:0px 0px 3px 0px"/>
 </p>
+
 
 
 <h3 align="left">Stats Cards:</h3>
