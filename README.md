@@ -1,12 +1,26 @@
-<img align="Center" alt="Coding" width="100%" src="https://github.com/user-attachments/assets/a25813cf-d294-4fd2-b12e-f15789cf10fd">
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=480&lines=Hello+there+Explorer!+👋;<+----This+is+Tajwar----+>;🛠️+Debugging+Life......;🚫+Error+404+:+Peace....;___❌+Not+found+(yet)+⚠️___" alt="Typing SVG" />
-</h1> -->
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I’m Md Tajwar Ali Rumman
+
+Software Quality Assurance Engineer  
+🔍 Quality-focused | 🧪 Test-driven | ⚙️ Automation enthusiast
+
+> *“Quality is never an accident; it is always the result of intelligent effort.”*
+
+---
+
+## 🧠 About Me
+
+I am a dedicated Software QA Engineer who believes that software quality goes beyond simply identifying defects—it is about building reliability, confidence, and trust for end users. I have a strong passion for understanding and analyzing requirements, evaluating test scenarios, and designing well-structured, effective test cases that align with business goals. I follow industry-standard testing methodologies and the principles of the Software Development Life Cycle (SDLC) to ensure quality is embedded at every stage of development.
+
+I continuously work on improving testing processes through thoughtful analysis, collaboration, and process optimization. Currently, I am strengthening my expertise in automation testing, API testing, and performance testing, while remaining highly curious and motivated to explore new tools, technologies, and best practices in the ever-evolving quality assurance landscape.
+
+---
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+there+explorer!;This+is+Tajwar;Software+Quality+Assurance+Engineer;Manual+%26+Automation+Tester;Quality+is+not+an+Act%2C+it's+a+Habit" />
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+<img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 </p>
 <p align="center">
   
@@ -241,8 +255,9 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="mdtajwarali@gmail.com" height="30" width="40" />
   </a>
 </p>
+<img align="Center" alt="Coding" width="100%" src="https://github.com/user-attachments/assets/a25813cf-d294-4fd2-b12e-f15789cf10fd">
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+</p> -->
